@@ -22,34 +22,34 @@ Our work also involves audio transcription of recorded interviews and documentar
 Advances in data capture technology have enabled us to rapidly archive hundreds of thousands of pages of data collected in long-term field projects using smartphone scanning apps, preserving the original records of irreplaceable anthropological observations. Our team integrates these scans into existing databases of transcribed, processed data, allowing researchers to reconstruct the provenance of resulting database queries.
 
 
-# Current Team
+# Team
 
 ## Group Leaders
 
-Bret Beheim, Ph.D.
-Silke Atmaca, Ph.D.
+- Bret Beheim, Ph.D.
+- Silke Atmaca, Ph.D.
 
 ## Scientific Staff
 
-Claudia Bavero
-Sophie Kaube
+- Claudia Bavero
+- Sophie Kaube
 
 ## Student Assistants
 
-Anastassiya Bublikova
-Anja Becker
-Anne Büchner
-Anne Hellmund
-Antje Winkler
-Carlotta Rück
-Enzo Lima
-Franziska Meier
-Karin Kämmerling
-Kristina Kunze
-Leonie Ette
-Maria Fröhlich
-Nikkin Devaraju
-Philine Adolphi
-Rodrigo Lopez
-Vincent Kiepsch
-Vivien Kleinow
+- Anastassiya Bublikova
+- Anja Becker
+- Anne Büchner
+- Anne Hellmund
+- Antje Winkler
+- Carlotta Rück
+- Enzo Lima
+- Franziska Meier
+- Karin Kämmerling
+- Kristina Kunze
+- Leonie Ette
+- Maria Fröhlich
+- Nikkin Devaraju
+- Philine Adolphi
+- Rodrigo Lopez
+- Vincent Kiepsch
+- Vivien Kleinow
