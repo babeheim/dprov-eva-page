@@ -31,10 +31,9 @@ Advances in data capture technology have enabled us to rapidly archive hundreds 
 - Bret Beheim, Ph.D.
 - Silke Atmaca, Ph.D.
 
-## Scientific Staff
+## Technical Staff
 
 - Claudia Bavero
-- Sophie Kaube
 
 ## Student Assistants
 
