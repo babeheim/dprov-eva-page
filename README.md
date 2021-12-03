@@ -1,7 +1,7 @@
 
 ![](dprov-banner.png)
 
-Our group organizes computational and database support for department fieldsites worldwide, using standardized, scripted data processing and formal version control to keep clear records of the history of each individual data point.
+Our group organizes computational and database support for HBEC department fieldsites worldwide, using standardized, scripted data processing and formal version control to keep clear records of the history of each individual data point.
 
 # Database Design
 
